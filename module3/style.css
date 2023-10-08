@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    border: none;
+    background-color: black;
+    color:gray;
+}
+body{
+   
+    color: black;
+	background-size: cover;
+    background-image: url(https://www.eatwell101.com/wp-content/uploads/2020/11/roasted-chicken-recipe-8.jpg);
+
+}
+.glyphicon {
+	font-size: 20px;
+	color:gray; 
+}
+
+.center{
+	width: 90%;
+	background-color: gray;
+    
+}
+.container
+{
+    
+    background-color:lightyellow;
+    margin: 0px 10px 0px 10px;
+}
+.text-center{
+	font-size: 50px;
+   background-color: darkgrey;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color:gray;
+   
+}
